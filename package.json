@@ -1,0 +1,31 @@
+{
+  "name": "team2-app",
+  "version": "1.0.0",
+  "description": "Final Project using React",
+  "main": "index.js",
+  
+  "dependencies": {
+    "react": "^16.3.2",
+    "react-dom": "^16.3.2",
+    "react-scripts": "1.1.4",
+	"react-router": "^4.2.0",
+    "react-redux": "^5.0.7",
+	"babel-preset-react": "^6.24.1"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MissouriState-CSC515-Spring2018/team-two.git"
+  },
+  "author": "William Zay, Zackh Tucker, Josiah Carpenter",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MissouriState-CSC515-Spring2018/team-two/issues"
+  },
+  "homepage": "https://github.com/MissouriState-CSC515-Spring2018/team-two#readme"
+}

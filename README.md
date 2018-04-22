@@ -1,2 +1,1 @@
-This is team 2's project using React.
-this will use the redit API
+This is team 2's project using React. This will use the reddit API to showuser and subreddit information.
