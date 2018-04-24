@@ -27,7 +27,7 @@ ul.header li a {
   background-color: #222;
   height: 150px;
   padding: 20px;
-  color: white;
+  color: #DDD;
 }
 
 .App-title {
@@ -55,5 +55,10 @@ ul.header {
 
 .active {
   background-color: #6fdfef;
+}
+
+ul.header li a:hover{
+	color: #ef7f6f;
+	
 }
 

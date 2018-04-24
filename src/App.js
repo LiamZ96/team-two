@@ -22,9 +22,9 @@ class App extends Component {
 			</header>
 			
 			<ul className="header">
-				<li><NavLink exact to="/" class = "links">Home</NavLink></li>
-				<li><NavLink to="/subreddit" class = "links">Subreddit</NavLink></li>
-				<li><NavLink to="/user" class = "links">User</NavLink></li>
+				<li><NavLink exact to="/" className = "links">Home</NavLink></li>
+				<li><NavLink to="/subreddit" className = "links">Subreddit</NavLink></li>
+				<li><NavLink to="/user" className = "links">User</NavLink></li>
 			</ul>
 			<div className="content">
             <Route exact path="/" component={home}/>
